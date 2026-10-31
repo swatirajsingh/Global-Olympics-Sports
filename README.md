@@ -94,6 +94,19 @@ To deploy on Render:
 2. Connect the repository
 3. Use the default build and start commands from the project configuration
 4. Render will use the `Procfile` to start the app automatically
+## Live Website
+
+The Global Olympics Sports application is deployed and publicly accessible on Render.
+
+**Live Demo:** https://global-olympics-sports.onrender.com/
+
+Visit the live website to explore the interactive Tableau Public dashboard and story. You can switch between Dashboard and Story views directly from the application.
+
+## Deployment Status
+
+- **Platform:** Render
+- **Status:** Live
+- **Public URL:** https://global-olympics-sports.onrender.com/
 
 ## Notes
 
